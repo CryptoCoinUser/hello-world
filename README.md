@@ -1,3 +1,3 @@
 # hello-world
 just following steps in a tutorial...
-made changes on line 3
+This is a 3rd line of readme.
